@@ -2,7 +2,7 @@
 A module to facilitate error logging to Sentry from Roblox.
 
 ## Usage
-To use the module, you'll first need to set up an account at [https://sentry.io](Sentry). A free plan is available providing an allowance up to 5K errors.
+To use the module, you'll first need to set up an account at [Sentry](https://sentry.io). A free plan is available providing an allowance up to 5K errors.
 
 Create a project, and if asked select "Other platform". You might find yourself stuck in the onboarding process - ignore it, go to Sentry again and log in to see your dashboard. Your project should be there.
 
